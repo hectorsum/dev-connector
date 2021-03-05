@@ -1,4 +1,3 @@
-import { register } from '../actions/auth';
 import { 
   REGISTER_FAIL,
   REGISTER_SUCCESS,
